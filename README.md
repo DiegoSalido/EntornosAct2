@@ -1,4 +1,4 @@
 # EntornosAct2
-## 
-## Copiar el código Java y pegarlo en tu entorno de desarrollo
+## Descripción
+## Como ejecutar el código
 ## Diego Salido

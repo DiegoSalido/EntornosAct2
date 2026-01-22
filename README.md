@@ -37,6 +37,7 @@ public class Codigo1 {
 
 		System.out.println(f + ":" + e); 
 	}
-} ``
+}
+```
 ## Como ejecutar el código
 ## Diego Salido

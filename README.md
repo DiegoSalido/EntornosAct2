@@ -1,6 +1,7 @@
 # EntornosAct2
 ## Descripción
-... package Actividad1;
+```
+package Actividad1;
 /**
  * Programa que analiza un conjunto de números para obtener
  * el valor mayor y cuántas veces se repite.
@@ -36,7 +37,6 @@ public class Codigo1 {
 
 		System.out.println(f + ":" + e); 
 	}
-} 
-...
+} ``
 ## Como ejecutar el código
 ## Diego Salido

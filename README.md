@@ -1,6 +1,6 @@
 # EntornosAct2
 ## Descripción
-```
+``` java
 package Actividad1;
 /**
  * Programa que analiza un conjunto de números para obtener
